@@ -3,7 +3,7 @@
 
    + nuriddinovbeks@gmail.com
    + becknuriddinov (telegram)
-   + beck_n #6192 (discord)
+   + beck_n #6192 ()
 
 # About Myself
 
