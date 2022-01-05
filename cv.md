@@ -14,7 +14,7 @@ I graduated MDIS in Tashkent and have a Bachelor's Degree in Business and Econom
    + Python
    + Django
 
-#Code Example:
+# Code Example:
 ```
 interest = 0.1
 def bank(money, years):
@@ -29,11 +29,11 @@ print(bank(50000, 8))
 ```
 # Education:
 
- ### Management Development Institute of Singapore in Tashkent
+ ## Management Development Institute of Singapore in Tashkent
 
    * Bachelor's in Business and Economics
 
- ### ProWeb IT School
+ ## ProWeb IT School
 
 # Languages:
 
