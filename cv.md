@@ -1,9 +1,9 @@
 # Name: Bekzod Nuriddinov
 # Contacts:
 
-   + nuriddinovbeks@gmail.com
+   + nuriddinovbeks@gmail.com (email)
    + becknuriddinov (telegram)
-   + beck_n #6192 ()
+   + beck_n #6192 (discord)
 
 # About Myself
 
